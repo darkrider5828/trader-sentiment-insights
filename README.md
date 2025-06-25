@@ -1,5 +1,5 @@
 # trader-sentiment-insights
-#🎯 Insights Summary: Trader Behavior vs Market Sentiment
+🎯 Insights Summary: Trader Behavior vs Market Sentiment
 1. Data Overview
 Historical Trader Dataset: Over 211,000 trades recorded, including trade size, direction, PnL, and other metrics.
 
